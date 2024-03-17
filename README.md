@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Calorie counter is a web application that I wrote to calculate our calorie intake.
+Calorie counter is a web application that I wrote to calculate calorie intake.
 
 ## Features
 
